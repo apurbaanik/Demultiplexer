@@ -1,0 +1,2 @@
+# Demultiplexer
+About building a simple combinational logic component: A 1 -> 4 Demultiplexer using the ‘always’ construct on Verilog and simulating a testbench to verify the operation. Demultiplexer is a circuit that has one input routed to one of its multiple output and the output that is active is determined by a select input. A demultiplexer has n select lines that chooses to route the input to one of its 2n outputs. So if it has 2 select lines then the output will be 2^2 = 4.
